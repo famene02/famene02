@@ -18,18 +18,12 @@
 ## 📂 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/VeigaGustavo/veigagustavo-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VeigaGustavo&repo=veigagustavo-portfolio&bg_color=0d1117&border_color=7F3ACE&show_icons=true&icon_color=7F3ACE&title_color=7F3ACE&text_color=c9d1d9" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/VeigaGustavo/linux-projeto2-iac">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VeigaGustavo&repo=linux-projeto2-iac&bg_color=0d1117&border_color=7F3ACE&show_icons=true&icon_color=7F3ACE&title_color=7F3ACE&text_color=c9d1d9" alt="Linux IAC" />
-  </a>
+
 </div>
 
 <div align="center">
-  <a href="https://github.com/VeigaGustavo?tab=repositories">
     <img src="https://img.shields.io/badge/-repositories-7F3ACE?style=for-the-badge&logo=github&logoColor=white" alt="repositories" />
-  </a>
+
 </div>
 
 
